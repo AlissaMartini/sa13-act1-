@@ -1,0 +1,33 @@
+
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+header {
+    text-align: center; 
+    padding: 20px;
+}
+
+h1 {
+    color: white; 
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+}
+
+p {
+    line-height: 1.6;
+}
